@@ -6,6 +6,10 @@ body {
 	display:none;
 }
 
+#chat {
+	left:330px;
+}
+
 #chat .chat_tools {
 	border:0;
 	top:-73px;
