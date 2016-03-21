@@ -5,3 +5,7 @@ body {
 .backstretch {
 	display:none;
 }
+
+.chat_tools {
+	border:none;
+}
