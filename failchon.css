@@ -8,7 +8,7 @@ body {
 #header-global {
 	z-index:0;
 }
-.chat_tools {
+#chat .chat_tools {
 	top:-73px;
 	border:none;
 	left:108px;
