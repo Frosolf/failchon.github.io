@@ -6,6 +6,7 @@ body {
 	display:none;
 }
 
-.chat_tools {
-	border:none;
+#chat .chat_tools {
+	border-bottom:5px solid red;
 }
+
