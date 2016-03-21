@@ -7,7 +7,7 @@ body {
 }
 
 #chat .chat_tools {
-	border-bottom:none;
+	border:0;
 	top:-73px;
 	left:108px;
 }
