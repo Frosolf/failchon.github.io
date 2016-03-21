@@ -5,9 +5,6 @@ body {
 .backstretch {
 	display:none;
 }
-#header-global {
-	z-index:0;
-}
 .chat_tools {
 	top:-73px;
 	border:none;
