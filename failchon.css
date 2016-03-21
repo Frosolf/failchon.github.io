@@ -17,10 +17,26 @@ body {
 #chat .chat_tools {
 	border:0;
 	top:-73px;
-	left:-230px;
+	left:-70px;
+	display:0;
 }
 
 #main-room .right_section {
 	z-index:100;
+	background:none;
 }
 
+.for_content {
+	z-index:101;
+}
+
+.left {
+	background:#000;
+	padding-right:0;
+}
+
+#player-controller {
+	background:#000;
+	height:100%;
+	position:absolute !important;
+}
