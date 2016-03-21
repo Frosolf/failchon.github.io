@@ -7,6 +7,8 @@ body {
 }
 
 #chat .chat_tools {
-	border-bottom:5px solid red;
+	border-bottom:none;
+	top:-73px;
+	left:108px;
 }
 
