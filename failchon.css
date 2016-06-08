@@ -24,3 +24,13 @@
 #main_avatar_room #main-user-list-room #avatar-list li .user-role-icon {
 	display:none !important;
 }
+
+#main_avatar_room #main-user-list-room #avatar-list li.mod .user-role, #main_avatar_room #main-user-list-room #avatar-list li.mod .username {
+    color: #3083FF;
+    font-weight: bold;
+}
+
+#chat .chat-container .chat-messages .chat-main li.mod .user-role, #chat .chat-container .chat-messages .chat-main li.mod .username {
+    color: #3083DA;
+}
+
