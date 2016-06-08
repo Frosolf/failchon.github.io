@@ -68,13 +68,8 @@
 
 /* Change icon for manager */
 .manager span.user-role-icon {
-    background-image: url(https://failchon.github.io/CRIu1pX.png) !important; 
+    background-image: url(https://failchon.github.io/LJR3TqF.png) !important;  failchon.github.io/LJR3TqF.png
     display: inline-block !important;
-}
-
-/* Remove dubx vip rank */
-ul.avatar-list li.user-fi p.dubs:before, ul.avatar-list li.user-jinkx p.dubs:before, ul.avatar-list li.user-surreal p.dubs:before, ul.avatar-list li.user-pikachu p.dubs:before, ul.avatar-list li.user-law p.dubs:before {
-    display:none;
 }
 
 
