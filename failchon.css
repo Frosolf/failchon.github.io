@@ -54,16 +54,16 @@
 
 /* Change color of MANAGER rank in Room users list */
 .manager .username {
-    color: #E8C248 !important;
+    color: #7fff32 !important;
 }
 
 #main_avatar_room #main-user-list-room #avatar-list li.manager .user-role, #main_avatar_room #main-user-list-room #avatar-list li.manager .username {
-    color: #E8C201;
+    color: #7fff32;
 }
 
-/* Change color of MOD rank when hover over the name */
+/* Change color of MANAGER rank when hover over the name */
 #chat .chat-container .chat-messages .chat-main li.manager .user-role, #chat .chat-container .chat-messages .chat-main li.manager .username {
-    color: #E8C248;
+    color: #7fff32;
 }
 
 /* Change icon for manager */
