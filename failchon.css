@@ -21,4 +21,5 @@
 
 .resident-dj span.user-role-icon {
 	display:none !important;
+	display:inline-block;
 }
