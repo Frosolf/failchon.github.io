@@ -10,7 +10,7 @@
 	content:""!important;
 }
 
-#main_avatar_room #main-user-list-room #avatar-list li.mod p.username:after {
+#main_avatar_room #main-user-list-room #avatar-list li.admin p.username:after {
 	content:""!important;
 }
 
