@@ -26,11 +26,11 @@
 }
 
 #main_avatar_room #main-user-list-room #avatar-list li.mod .user-role, #main_avatar_room #main-user-list-room #avatar-list li.mod .username {
-    color: #3083FF;
+    color: #3083FF !important;
     font-weight: bold;
 }
 
 #chat .chat-container .chat-messages .chat-main li.mod .user-role, #chat .chat-container .chat-messages .chat-main li.mod .username {
-    color: #3083DA;
+    color: #3083DA !important;
 }
 
