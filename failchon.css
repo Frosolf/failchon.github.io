@@ -78,6 +78,6 @@ ul.avatar-list li.user-fi p.dubs:before, ul.avatar-list li.user-jinkx p.dubs:bef
 }
 
 /* Remove dubx vip color */
-#main_avatar_room #main-user-list-room #avatar-list .user-pikachu p.username {    
+#avatar-list p.username {    
 	color: #3083FF !important;
 }
