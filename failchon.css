@@ -77,7 +77,4 @@ ul.avatar-list li.user-fi p.dubs:before, ul.avatar-list li.user-jinkx p.dubs:bef
     display:none;
 }
 
-/* Remove dubx vip color */
-#avatar-list p.username {    
-	color: #3083FF !important;
-}
+
