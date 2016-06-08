@@ -19,7 +19,6 @@
 }
 
 
-.resident-dj span.user-role-icon {
+#main_avatar_room #main-user-list-room #avatar-list li .user-role-icon {
 	display:none !important;
-	display:inline-block;
 }
