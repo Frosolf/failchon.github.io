@@ -65,3 +65,9 @@
 #chat .chat-container .chat-messages .chat-main li.manager .user-role, #chat .chat-container .chat-messages .chat-main li.manager .username {
     color: #E8C248;
 }
+
+/* Change icon for manager */
+.manager span.user-role-icon {
+    background-image: url(https://failchon.github.io/manager.png) !important;
+    display: inline-block !important;
+}
