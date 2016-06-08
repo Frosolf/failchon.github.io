@@ -8,6 +8,7 @@
 
 #main_avatar_room #main-user-list-room #avatar-list li.currentDJ p.username:after {
 	content:""!important;
+	display:none;
 }
 
 #main_avatar_room #main-user-list-room #avatar-list li.admin p.username:after {
