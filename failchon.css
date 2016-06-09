@@ -82,6 +82,6 @@
     color: #FF007F;
 }
 
-.right-section #main_avatar_room #main-user-list-room #avatar-list .user-pikachu p.username {
-     color: #000 !important; 
+#main_avatar_room #main-user-list-room #avatar-list .user-pikachu p.username {
+     color: #FF007F;
 }
