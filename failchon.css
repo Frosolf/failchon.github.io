@@ -32,13 +32,13 @@
 
 /* Change color of MOD rank in Room users list */
 #main_avatar_room #main-user-list-room #avatar-list li.mod .user-role, #main_avatar_room #main-user-list-room #avatar-list li.mod .username {
-    color: #3083FF !important;
+    color: #3083FF;
     font-weight: bold;
 }
 
 /* Change color of MOD rank when hover over the name */
 #chat .chat-container .chat-messages .chat-main li.mod .user-role, #chat .chat-container .chat-messages .chat-main li.mod .username {
-    color: #3083DA !important;
+    color: #3083DA;
 }
 
 /* Change color of RDJ rank in Room users list */
