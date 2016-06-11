@@ -74,7 +74,7 @@
 
 /* Change color of CO OWNER rank in Room users list */
 #main_avatar_room #main-user-list-room #avatar-list li.co-owner .user-role, #main_avatar_room #main-user-list-room #avatar-list li.co-owner .username, #main_avatar_room #main-user-list-room #avatar-list li.creator .user-role, #main_avatar_room #main-user-list-room #avatar-list li.creator .username {
-    color: #FF007F;
+    color: #FF007F !important;
 }
 
 /* Change color of CO OWNER rank when hover over the name */
